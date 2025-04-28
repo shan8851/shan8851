@@ -25,7 +25,8 @@ Currently levelling up on Solidity, system design, and backend infra.
 
 ## ✍️ Recent Writing
 
-- [Modular Governance Is Starting to Work](https://shan8851.com/blog/modular-governance)  
+- [Back to scrappy](https://www.shan8851.com/blog/back-to-scrappy)
+- [Modular Governance Is Starting to Work](https://shan8851.com/blog/modular-governance)
 
 ---
 
