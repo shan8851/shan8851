@@ -8,10 +8,9 @@ Currently levelling up on Solidity, system design, and backend infra.
 
 ## 🔨 Currently Building
 
-- 🛠 [Modular Governance Frontend @ Aragon](https://app.aragon.org) – interfaces for custom DAO flows  
+- 🛠 [Modular Governance Frontend @ Aragon](https://app.aragon.org) – interfaces for custom DAO flows
+- 🔮 [EtherPoll](https://ether-poll-app.vercel.app/) - Vote on the hottest topics in the Ethereum ecosystem. Zero noise. All signal.
 - ⚙️ [_sepoSip](https://sepo-sip.vercel.app) – Sepolia faucet with leaderboard & smart contract donations  
-- ☕ [CryptoCoffee](https://github.com/shan8851/crypto-coffee-contract) – a web3 "buy me a coffee" dApp  
-
 ---
 
 ## 🧠 Currently Learning
