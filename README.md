@@ -1,35 +1,36 @@
 # 👋 Hey, I’m Asam | Shan8851.eth
 
-I'm a full stack engineer building DAO governance and DeFi tooling at [Aragon](https://aragon.org).  
+Full stack engineer building DAO governance and DeFi tooling at [Aragon](https://aragon.org).  
 Curious about modular governance, onchain UX, and all things open-source.  
-Currently levelling up on Solidity, system design, and backend infra.
+Currently diving deeper into Solidity, system design, and backend infrastructure.
 
 ---
 
-## 🔨 Currently Building
+## 🔨 What I’m Working On
 
-- 🛠 [Modular Governance Frontend @ Aragon](https://app.aragon.org) – interfaces for custom DAO flows
+- 🧩 [Modular Governance UI @ Aragon](https://app.aragon.org) – interfaces for composable DAO flows
+- 🤝 Contributor to [Web3Privacy Now](https://github.com/web3privacy) – building tools for a more private Ethereum
 - 🔮 [EtherPoll](https://ether-poll-app.vercel.app/) - Vote on the hottest topics in the Ethereum ecosystem. Zero noise. All signal.
-- ⚙️ [_sepoSip](https://sepo-sip.vercel.app) – Sepolia faucet with leaderboard & smart contract donations  
+- ⚙️ [LastPing](https://github.com/shan8851/last-ping-contract) – ETH-only dead mans switch
 ---
 
-## 🧠 Currently Learning
+## 🧠 What I’m Learning
 
-- 🧱 Solidity + Foundry – digging into smart contract testing and gas efficiency
-- 🏗 Smart contract architecture – patterns for modularity, upgradeability and permissioning
-- 🧰 Backend & infra – improving skills with Docker, CI/CD, Postgres, GraphQL and Rust
-- 🧠 Governance mechanics – exploring voting escrow, gauges and RWA-based DAO models
+- 🧱 **Solidity + Foundry** – testing strategies, gas optimization, and fuzzing
+- 🏗 **Smart Contract Architecture** – modularity, upgradeability, permissioning patterns
+- 🧰 **Backend & Infra** – hands-on with Docker, CI/CD, Postgres, GraphQL, and Rust
+- 🧬 **Governance Mechanics** – voting escrow, gauges, dynamic voting power, RWA-based DAOs
 
 ---
 
-## ✍️ Recent Writing
+## ✍️ Recent Posts
 
 - [Back to scrappy](https://www.shan8851.com/blog/back-to-scrappy)
 - [Modular Governance Is Starting to Work](https://shan8851.com/blog/modular-governance)
 
 ---
 
-## 🔗 Connect
+## 🔗 Find Me Here
 
 - 🌍 [shan8851.com](https://shan8851.com)
 - 🐦 [@shan8851](https://x.com/shan8851)
@@ -37,4 +38,4 @@ Currently levelling up on Solidity, system design, and backend infra.
 
 ---
 
-> Open to collaborating on open-source DAO tooling, governance UX, and smart contract interfaces.
+> Always keen to connect around privacy-preserving tooling, governance UX, and smart contract interfaces — especially in open source.
