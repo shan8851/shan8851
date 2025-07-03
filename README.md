@@ -11,7 +11,7 @@ Currently diving deeper into Solidity, system design, and backend infrastructure
 - 🧩 [Modular Governance UI @ Aragon](https://app.aragon.org) – interfaces for composable DAO flows
 - 🤝 Contributor to [Web3Privacy Now](https://github.com/web3privacy) – building tools for a more private Ethereum
 - 🔮 [EtherPoll](https://ether-poll-app.vercel.app/) - Vote on the hottest topics in the Ethereum ecosystem. Zero noise. All signal.
-- ⚙💰 [OnchainTips]([https://github.com/shan8851/last-ping-contract](https://github.com/shan8851/onchain-tips)) – Smart contract fro receiving tips in eth and ERC20 tokens
+- 💰 [OnchainTips]([https://github.com/shan8851/last-ping-contract](https://github.com/shan8851/onchain-tips)) – Smart contract fro receiving tips in eth and ERC20 tokens
 ---
 
 ## 🧠 What I’m Learning
