@@ -1,28 +1,24 @@
-# 👋 Hey, I’m Asam | Shan8851.eth
+# Shan (shan8851.eth)
 
-Full stack engineer building the bridge between blockchain potential and real world adoptionat [Polygon]([https://aragon.org](https://polygon.technology/)).  
-Currently diving deeper into Solidity, system design and Rust.
+Senior full stack engineer @ Polygon — on a mission to move all money on-chain.
 
----
+## Things I’m proud of
 
-## 🔨 What I’m Working On
+- **Agglayer UI** — bridging UI for Agglayer chains (and back) → https://ui.agglayer.dev/
+- **Aragon gov-ui-kit** — OSS component library for building governance UIs → https://github.com/aragon/gov-ui-kit
+- **Aragon app** — on-chain governance app (legacy, but a lot of learnings) → https://github.com/aragon/app
+- **Web3Privacy Now** — regular contributor (privacy nerd) → https://web3privacy.info/
 
-- 🧩 [Agglayer](https://www.agglayer.dev/) – cross-chain settlement layer that connects the liquidity and users of any blockchain for fast, low cost interoperability and growth.
-- 🤝 Contributor to [Web3Privacy Now](https://github.com/web3privacy) – building tools for a more private Ethereum
-- 🔮 [EtherPoll](https://ether-poll-app.vercel.app/) - Vote on the hottest topics in the Ethereum ecosystem. Zero noise. All signal.
-- 💰 [OnchainTips](https://github.com/shan8851/onchain-tips)) – Smart contract fro receiving tips in eth and ERC20 tokens
----
+## Now
 
-## 🧠 What I’m Learning
+- Working on bridging + staking UX + web3 UI/UX at Polygon
+- Playing with AI/agents + CLI/TUI tooling
+- Open to connecting with like-minded builders + mentoring folks breaking into tech/web3
 
-- 🧱 **Solidity + Foundry** – testing strategies, gas optimization, and fuzzing
-- 🏗 **Smart Contract Architecture** – modularity, upgradeability, permissioning patterns
-- 🦀 **Rust** – Working through the book, rustlings and some small projects here and there
+## Links
 
----
-
-## 🔗 Find Me Here
-
-- 🌍 [shan8851.com](https://shan8851.com)
-- 🐦 [@shan8851](https://x.com/shan8851)
-- 💌 DM me or [Email me](mailto:asamshans456@gmail.com?subject=Let's%20Connect)
+- site: https://shan8851.com
+- telegram: https://t.me/shan8851
+- email: mailto:asamshan456@gmail.com
+- github: https://github.com/shan8851
+- x: https://x.com/shan8851
