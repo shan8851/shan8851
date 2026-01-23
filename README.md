@@ -1,8 +1,8 @@
-# Shan (shan8851.eth)
+# 👋 Hey, I’m Asam | Shan8851.eth
 
 Senior full stack engineer @ Polygon — on a mission to move all money on-chain.
 
-## Things I’m proud of
+## Highlights
 
 - **Agglayer UI** — bridging UI for Agglayer chains (and back) → https://ui.agglayer.dev/
 - **Aragon gov-ui-kit** — OSS component library for building governance UIs → https://github.com/aragon/gov-ui-kit
