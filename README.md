@@ -23,8 +23,8 @@ Senior full stack engineer @ Polygon — on a mission to move all money on-chain
 
 ## Connect
 
-- site: https://shan8851.com
-- x: https://x.com/shan8851
-- telegram: https://t.me/shan8851
-- github: https://github.com/shan8851
-- email: mailto:asamshan456@gmail.com
+- [website](https://shan8851.com)
+- [x](https://x.com/shan8851)
+- [telegram](https://t.me/shan8851)
+- [github](https://github.com/shan8851)
+- [email](mailto:asamshan456@gmail.com)
