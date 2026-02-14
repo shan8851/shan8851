@@ -9,16 +9,22 @@ Senior full stack engineer @ Polygon — on a mission to move all money on-chain
 - **Aragon app** — on-chain governance app (legacy, but a lot of learnings) → https://github.com/aragon/app
 - **Web3Privacy Now** — regular contributor (privacy nerd) → https://web3privacy.info/
 
+## Projects
+
+- **[clawtop](https://github.com/shan8851/clawtop)** — one-screen OpenClaw health dashboard (CLI)
+- **[scratch](https://github.com/shan8851/scratch)** — keyboard-first terminal notes (TUI)
+- **[pomo](https://github.com/shan8851/pomo)** — minimal pomodoro in the terminal (TUI)
+
 ## Now
 
-- Working on bridging + staking UX + web3 UI/UX at Polygon
-- Playing with AI/agents + CLI/TUI tooling
-- Open to connecting with like-minded builders + mentoring folks breaking into tech/web3
+- moving all money onchain at Polygon
+- building automated workflows for day-to-day operations
+- playing too much with OpenClaw while helping the uninitiated use AI to its full potential
 
-## Links
+## Connect
 
 - site: https://shan8851.com
-- telegram: https://t.me/shan8851
-- email: mailto:asamshan456@gmail.com
-- github: https://github.com/shan8851
 - x: https://x.com/shan8851
+- telegram: https://t.me/shan8851
+- github: https://github.com/shan8851
+- email: mailto:asamshan456@gmail.com
