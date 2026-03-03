@@ -4,6 +4,7 @@ Senior full stack engineer @ Polygon — on a mission to move all money on-chain
 Building and shipping AI-powered products, prompt workflows, and automation systems.
 
 ## Highlights
+- **FairSide** — fair 5/6/7-a-side football team balancer for weekly games → https://www.fairside.app/
 - **RoastMaster** — upload a selfie, pick Roast or Glaze, get share-ready banter in seconds → https://roastmyphoto.app/
 - **ExcuseMe** — AI-first excuse generator with tone controls, fallback safety, and optional context → https://excuse-me.xyz/
 - **Agglayer UI** — bridging UI for Agglayer chains (and back) → https://ui.agglayer.dev/
