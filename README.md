@@ -4,9 +4,6 @@ Senior full stack engineer @ Polygon — on a mission to move all money on-chain
 Building and shipping AI-powered products, prompt workflows, and automation systems.
 
 ## Highlights
-- **FairSide** — fair 5/6/7-a-side football team balancer for weekly games → https://www.fairside.app/
-- **RoastMaster** — upload a selfie, pick Roast or Glaze, get share-ready banter in seconds → https://roastmyphoto.app/
-- **ExcuseMe** — AI-first excuse generator with tone controls, fallback safety, and optional context → https://excuse-me.xyz/
 - **Agglayer UI** — bridging UI for Agglayer chains (and back) → https://ui.agglayer.dev/
 - **Aragon gov-ui-kit** — OSS component library for building governance UIs → https://github.com/aragon/gov-ui-kit
 - **Aragon app** — on-chain governance app → https://github.com/aragon/app
@@ -14,6 +11,9 @@ Building and shipping AI-powered products, prompt workflows, and automation syst
 
 ## Projects
 - **[llm-usage](https://github.com/shan8851/llm-usage)** — CLI for tracking token usage across Claude Code, Codex & OpenRouter → [npm](https://www.npmjs.com/package/llm-usage)
+- **[FairSide](https://www.fairside.app/)** — fair 5/6/7-a-side football team balancer for weekly games
+- **[RoastMaster](https://roastmyphoto.app/)** — upload a selfie, pick Roast or Glaze, get share-ready banter in seconds
+- **[ExcuseMe](https://excuse-me.xyz/)** — AI-first excuse generator with tone controls and fallback safety
 - **[pomo](https://github.com/shan8851/pomo)** — minimal pomodoro in the terminal (TUI)
 
 ## Now
