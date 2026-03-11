@@ -13,6 +13,7 @@ Building and shipping AI-powered products, prompt workflows, and automation syst
 - **Web3Privacy Now** — regular contributor (privacy nerd) → https://web3privacy.info/
 
 ## Projects
+- **[llm-usage](https://github.com/shan8851/llm-usage)** — CLI for tracking token usage across Claude Code, Codex & OpenRouter → [npm](https://www.npmjs.com/package/llm-usage)
 - **[pomo](https://github.com/shan8851/pomo)** — minimal pomodoro in the terminal (TUI)
 
 ## Now
