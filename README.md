@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Asam
+# 👋 Hey, I'm Asam
 
 Senior full stack engineer @ Polygon — on a mission to move all money on-chain.
 Building and shipping AI-powered products, prompt workflows, and automation systems.
@@ -10,6 +10,10 @@ Building and shipping AI-powered products, prompt workflows, and automation syst
 - **Aragon app** — on-chain governance app → https://github.com/aragon/app
 - **Web3Privacy Now** — regular contributor (privacy nerd) → https://web3privacy.info/
 
+## Agent-First CLI Tools
+- **[🚇 tfl-cli](https://tfl-cli.xyz)** — London transport in your terminal. Tube status, journey planning, live arrivals, bike docks. Built for AI agents. → [npm](https://www.npmjs.com/package/@shan8851/tfl-cli) · [repo](https://github.com/shan8851/tfl-cli)
+- **[🏛️ companies-house-cli](https://ch-cli.xyz)** — UK company data in your terminal. Search companies, directors, filings, PSC, charges. Built for AI agents. → [npm](https://www.npmjs.com/package/@shan8851/companies-house-cli) · [repo](https://github.com/shan8851/companies-house-cli)
+
 ## Projects
 - **[chaingrep](https://chaingrep.xyz)** — grep for on-chain events. Point at a contract + block range, get decoded logs streamed back → [repo](https://github.com/shan8851/chaingrep)
 - **[llm-usage](https://github.com/shan8851/llm-usage)** — CLI for tracking token usage across Claude Code, Codex & OpenRouter → [npm](https://www.npmjs.com/package/llm-usage)
@@ -20,11 +24,12 @@ Building and shipping AI-powered products, prompt workflows, and automation syst
 
 ## Now
 - moving all money onchain at Polygon
+- building agent-first CLI tools for UK public APIs
 - building automated workflows for day-to-day operations
 - playing too much with OpenClaw while helping the uninitiated use AI to its full potential
 
 ## Connect
-I’m looking for a small, high-signal builder community to learn and ship with. Hit me up.
+I'm looking for a small, high-signal builder community to learn and ship with. Hit me up.
 
 - [website](https://shan8851.com)
 - [x](https://x.com/shan8851)
