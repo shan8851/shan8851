@@ -13,6 +13,7 @@ Building and shipping AI-powered products, prompt workflows, and automation syst
 ## Agent-First CLI Tools
 - **[🚇 tfl-cli](https://tfl-cli.xyz)** — London transport in your terminal. Tube status, journey planning, live arrivals, bike docks. Built for AI agents. → [npm](https://www.npmjs.com/package/@shan8851/tfl-cli) · [repo](https://github.com/shan8851/tfl-cli)
 - **[🏛️ companies-house-cli](https://ch-cli.xyz)** — UK company data in your terminal. Search companies, directors, filings, PSC, charges. Built for AI agents. → [npm](https://www.npmjs.com/package/@shan8851/companies-house-cli) · [repo](https://github.com/shan8851/companies-house-cli)
+- **[🚂 rail-cli](https://rail-cli.xyz)** — UK trains in your terminal. Live departures, arrivals, station search across every National Rail station. Built for AI agents. → [npm](https://www.npmjs.com/package/@shan8851/rail-cli) · [repo](https://github.com/shan8851/rail-cli)
 
 ## Projects
 - **[chaingrep](https://chaingrep.xyz)** — grep for on-chain events. Point at a contract + block range, get decoded logs streamed back → [repo](https://github.com/shan8851/chaingrep)
