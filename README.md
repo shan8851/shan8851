@@ -1,39 +1,32 @@
-# 👋 Hey, I'm Asam
+# Hey, I'm Shan
 
-Senior full stack engineer @ Polygon — on a mission to move all money on-chain.
-Building and shipping AI-powered products, prompt workflows, and automation systems.
+Senior full-stack engineer at Polygon, focused on payments, bridging, staking, and the kind of reliability you only notice when it's missing.
 
-## Highlights
-- **Agglayer UI** — bridging UI for Agglayer chains (and back) → https://ui.agglayer.dev/
-- **Cielo** — wallet discovery and portfolio tracking platform → https://app.cielo.finance
-- **Aragon gov-ui-kit** — OSS component library for building governance UIs → https://github.com/aragon/gov-ui-kit
-- **Aragon app** — on-chain governance app → https://github.com/aragon/app
-- **Web3Privacy Now** — regular contributor (privacy nerd) → https://web3privacy.info/
+Outside work, I build practical AI systems, agent-first tools, and public proof-of-work that sharpens how I ship.
 
-## Agent-First CLI Tools
-- **[🚇 tfl-cli](https://tfl-cli.xyz)** — London transport in your terminal. Tube status, journey planning, live arrivals, bike docks. Built for AI agents. → [npm](https://www.npmjs.com/package/@shan8851/tfl-cli) · [repo](https://github.com/shan8851/tfl-cli)
-- **[🏛️ companies-house-cli](https://ch-cli.xyz)** — UK company data in your terminal. Search companies, directors, filings, PSC, charges. Built for AI agents. → [npm](https://www.npmjs.com/package/@shan8851/companies-house-cli) · [repo](https://github.com/shan8851/companies-house-cli)
-- **[🚂 rail-cli](https://rail-cli.xyz)** — UK trains in your terminal. Live departures, arrivals, station search across every National Rail station. Built for AI agents. → [npm](https://www.npmjs.com/package/@shan8851/rail-cli) · [repo](https://github.com/shan8851/rail-cli)
+## Featured builds
+- **[RoastMaster](https://roastmyphoto.app/)** — consumer AI app with image uploads, auth, credits, share loops, and a lot of prompt + output iteration
+- **CLI suite** — a growing set of agent-first terminal tools built around useful public data and real-world workflows:
+  - **[tfl-cli](https://tfl-cli.xyz)** — London transport in your terminal → [npm](https://www.npmjs.com/package/@shan8851/tfl-cli) · [repo](https://github.com/shan8851/tfl-cli)
+  - **[companies-house-cli](https://ch-cli.xyz)** — UK company data in your terminal → [npm](https://www.npmjs.com/package/@shan8851/companies-house-cli) · [repo](https://github.com/shan8851/companies-house-cli)
+  - **[rail-cli](https://rail-cli.xyz)** — UK rail departures, arrivals, station search, and fast travel queries → [npm](https://www.npmjs.com/package/@shan8851/rail-cli) · [repo](https://github.com/shan8851/rail-cli)
+- **[Operator Console](https://github.com/shan8851/giles-dashboard)** — mission-control-lite for agent runs, operator visibility, and system health
 
-## Projects
-- **[chaingrep](https://chaingrep.xyz)** — grep for on-chain events. Point at a contract + block range, get decoded logs streamed back → [repo](https://github.com/shan8851/chaingrep)
-- **[llm-usage](https://github.com/shan8851/llm-usage)** — CLI for tracking token usage across Claude Code, Codex & OpenRouter → [npm](https://www.npmjs.com/package/llm-usage)
-- **[FairSide](https://www.fairside.app/)** — fair 5/6/7-a-side football team balancer for weekly games
-- **[RoastMaster](https://roastmyphoto.app/)** — upload a selfie, pick Roast or Glaze, get share-ready banter in seconds
-- **[ExcuseMe](https://excuse-me.xyz/)** — AI-first excuse generator with tone controls and fallback safety
-- **[pomo](https://github.com/shan8851/pomo)** — minimal pomodoro in the terminal (TUI)
+## Shipped at scale
+- **[Agglayer UI](https://ui.agglayer.dev/)** — production bridge UI for Agglayer routes and aggregator paths
+- **[Agglayer SDK](https://github.com/agglayer/sdk)** — bridging SDK for native mode integrations and approval-heavy onchain flows
+- **[Cielo](https://app.cielo.finance)** — helped evolve Cielo from a Discord bot into a wallet discovery platform
+- **[Aragon gov-ui-kit](https://github.com/aragon/gov-ui-kit)** — OSS component library for building governance UIs
+- **[Aragon app](https://github.com/aragon/app)** — on-chain governance app
 
 ## Now
-- moving all money onchain at Polygon
-- building agent-first CLI tools for UK public APIs
-- building automated workflows for day-to-day operations
-- playing too much with OpenClaw while helping the uninitiated use AI to its full potential
+- stepping deeper into Polygon's Open Money Stack while keeping the bar high on reliability, testing, docs, and operability
+- building a growing suite of agent-first CLI tools around useful public APIs and real workflows
+- tightening Hermes Agent workflows, playbooks, skills, and operator visibility instead of building swarm theatre
+- looking for small, high-signal builder circles where people actually ship and compare notes
 
-## Connect
-I'm looking for a small, high-signal builder community to learn and ship with. Hit me up.
-
-- [website](https://shan8851.com)
-- [x](https://x.com/shan8851)
-- [telegram](https://t.me/shan8851)
-- [github](https://github.com/shan8851)
-- [email](mailto:asamshan456@gmail.com)
+## Elsewhere
+- **[website](https://shan8851.com)** — public front door, notes, log, and projects
+- **[x](https://x.com/shan8851)**
+- **[telegram](https://t.me/shan8851)**
+- **[email](mailto:asamshan456@gmail.com)**
