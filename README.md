@@ -5,12 +5,12 @@ Senior full-stack engineer at Polygon, focused on payments, bridging, staking, a
 Outside work, I build practical AI systems, agent-first tools, and public proof-of-work that sharpens how I ship.
 
 ## Featured builds
+- **[Hermes Console](https://github.com/shan8851/hermes-console)** — local-first web dashboard for Hermes Agent — runtime health, sessions, cron, skills, memory, files, and usage at a glance
 - **[RoastMaster](https://roastmyphoto.app/)** — consumer AI app with image uploads, auth, credits, share loops, and a lot of prompt + output iteration
 - **CLI suite** — a growing set of agent-first terminal tools built around useful public data and real-world workflows:
   - **[tfl-cli](https://tfl-cli.xyz)** — London transport in your terminal → [npm](https://www.npmjs.com/package/@shan8851/tfl-cli) · [repo](https://github.com/shan8851/tfl-cli)
   - **[companies-house-cli](https://ch-cli.xyz)** — UK company data in your terminal → [npm](https://www.npmjs.com/package/@shan8851/companies-house-cli) · [repo](https://github.com/shan8851/companies-house-cli)
   - **[rail-cli](https://rail-cli.xyz)** — UK rail departures, arrivals, station search, and fast travel queries → [npm](https://www.npmjs.com/package/@shan8851/rail-cli) · [repo](https://github.com/shan8851/rail-cli)
-- **[Operator Console](https://github.com/shan8851/giles-dashboard)** — mission-control-lite for agent runs, operator visibility, and system health
 
 ## Shipped at scale
 - **[Agglayer UI](https://ui.agglayer.dev/)** — production bridge UI for Agglayer routes and aggregator paths
