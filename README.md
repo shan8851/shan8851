@@ -10,6 +10,7 @@ Outside work, I build practical AI systems, agent-first tools, and public proof-
   - **[tfl-cli](https://tfl-cli.xyz)** — London transport in your terminal → [npm](https://www.npmjs.com/package/@shan8851/tfl-cli) · [repo](https://github.com/shan8851/tfl-cli)
   - **[companies-house-cli](https://ch-cli.xyz)** — UK company data in your terminal → [npm](https://www.npmjs.com/package/@shan8851/companies-house-cli) · [repo](https://github.com/shan8851/companies-house-cli)
   - **[rail-cli](https://rail-cli.xyz)** — UK rail departures, arrivals, station search, and fast travel queries → [npm](https://www.npmjs.com/package/@shan8851/rail-cli) · [repo](https://github.com/shan8851/rail-cli)
+  - **[fuel-cli](https://fuel-cli.xyz)** — UK fuel prices, ranked by price, distance, or freshness → [npm](https://www.npmjs.com/package/@shan8851/fuel-cli) · [repo](https://github.com/shan8851/fuel-cli)
 - **[Operator Console](https://github.com/shan8851/giles-dashboard)** — mission-control-lite for agent runs, operator visibility, and system health
 
 ## Shipped at scale
