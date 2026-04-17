@@ -16,9 +16,9 @@ Outside work, I build practical AI systems, agent-first tools, and public proof-
 ## Shipped at scale
 - **[Agglayer UI](https://ui.agglayer.dev/)** — production bridge UI for Agglayer routes and aggregator paths
 - **[Agglayer SDK](https://github.com/agglayer/sdk)** — bridging SDK for native mode integrations and approval-heavy onchain flows
+- **[sPOL liquid staking](https://staking.polygon.technology/lst)** — Polygon's native liquid staking product for staking, unstaking, migration, and DeFi-ready sPOL positions
 - **[Cielo](https://app.cielo.finance)** — helped evolve Cielo from a Discord bot into a wallet discovery platform
 - **[Aragon gov-ui-kit](https://github.com/aragon/gov-ui-kit)** — OSS component library for building governance UIs
-- **[Aragon app](https://github.com/aragon/app)** — on-chain governance app
 
 ## Now
 - stepping deeper into Polygon's Open Money Stack while keeping the bar high on reliability, testing, docs, and operability
