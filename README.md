@@ -12,6 +12,7 @@ Outside work, I build practical AI systems, agent-first tools, and public proof-
   - **[rail-cli](https://rail-cli.xyz)** — UK rail departures, arrivals, station search, and fast travel queries → [npm](https://www.npmjs.com/package/@shan8851/rail-cli) · [repo](https://github.com/shan8851/rail-cli)
   - **[fuel-cli](https://fuel-cli.xyz)** — UK fuel prices, ranked by price, distance, or freshness → [npm](https://www.npmjs.com/package/@shan8851/fuel-cli) · [repo](https://github.com/shan8851/fuel-cli)
   - **[parliament-cli](https://www.parliment-cli.xyz)** — UK Parliament bills, members, votes, and written questions from official APIs → [npm](https://www.npmjs.com/package/@shan8851/parliament-cli) · [repo](https://github.com/shan8851/parliament-cli)
+- **[OpenClaw Blackbox](https://github.com/shan8851/openclaw-blackbox)** — local-first run inspector for OpenClaw agents: failed, stalled, expensive, or weird runs turned into terminal, Markdown, JSON, and HTML reports → [npm](https://www.npmjs.com/package/@shan8851/blackbox) · [ClawHub](https://clawhub.ai/shan8851/openclaw-blackbox)
 - **[Hermes Console](https://github.com/shan8851/hermes-console)** — local-first web dashboard for Hermes Agent — runtime health, sessions, cron, skills, memory, files, and usage at a glance
 
 ## Shipped at scale
