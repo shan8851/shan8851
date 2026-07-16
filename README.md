@@ -1,35 +1,31 @@
 # Hey, I'm Shan
 
-Senior full-stack engineer at Polygon, focused on payments, bridging, staking, and the kind of reliability you only notice when it's missing.
+Senior full-stack engineer at Polygon.
 
-Outside work, I build practical AI systems, agent-first tools, and public proof-of-work that sharpens how I ship.
+I work on onchain products, mostly around bridging, staking, payments, and the kind of reliability you only notice when it breaks.
 
-## Featured builds
-- **[RoastMaster](https://roastmyphoto.app/)** — consumer AI app with image uploads, auth, credits, share loops, and a lot of prompt + output iteration
-- **CLI suite** — a growing set of agent-first terminal tools built around useful public data and real-world workflows:
-  - **[tfl-cli](https://tfl-cli.xyz)** — London transport in your terminal → [npm](https://www.npmjs.com/package/@shan8851/tfl-cli) · [repo](https://github.com/shan8851/tfl-cli)
-  - **[companies-house-cli](https://ch-cli.xyz)** — UK company data in your terminal → [npm](https://www.npmjs.com/package/@shan8851/companies-house-cli) · [repo](https://github.com/shan8851/companies-house-cli)
-  - **[rail-cli](https://rail-cli.xyz)** — UK rail departures, arrivals, station search, and fast travel queries → [npm](https://www.npmjs.com/package/@shan8851/rail-cli) · [repo](https://github.com/shan8851/rail-cli)
-  - **[fuel-cli](https://fuel-cli.xyz)** — UK fuel prices, ranked by price, distance, or freshness → [npm](https://www.npmjs.com/package/@shan8851/fuel-cli) · [repo](https://github.com/shan8851/fuel-cli)
-  - **[parliament-cli](https://www.parliment-cli.xyz)** — UK Parliament bills, members, votes, and written questions from official APIs → [npm](https://www.npmjs.com/package/@shan8851/parliament-cli) · [repo](https://github.com/shan8851/parliament-cli)
-- **[OpenClaw Blackbox](https://github.com/shan8851/openclaw-blackbox)** — local-first run inspector for OpenClaw agents: failed, stalled, expensive, or weird runs turned into terminal, Markdown, JSON, and HTML reports → [npm](https://www.npmjs.com/package/@shan8851/blackbox) · [ClawHub](https://clawhub.ai/shan8851/openclaw-blackbox)
-- **[Hermes Console](https://github.com/shan8851/hermes-console)** — local-first web dashboard for Hermes Agent — runtime health, sessions, cron, skills, memory, files, and usage at a glance
+Outside work I build small tools, write notes, and occasionally turn a personal obsession into a project before realising I have once again made a hobby into homework.
 
-## Shipped at scale
-- **[Agglayer UI](https://ui.agglayer.dev/)** — production bridge UI for Agglayer routes and aggregator paths
-- **[Agglayer SDK](https://github.com/agglayer/sdk)** — bridging SDK for native mode integrations and approval-heavy onchain flows
-- **[sPOL liquid staking](https://staking.polygon.technology/lst)** — Polygon's native liquid staking product for staking, unstaking, migration, and DeFi-ready sPOL positions
-- **[Cielo](https://app.cielo.finance)** — helped evolve Cielo from a Discord bot into a wallet discovery platform
-- **[Aragon gov-ui-kit](https://github.com/aragon/gov-ui-kit)** — OSS component library for building governance UIs
+## Mostly interested in
 
-## Now
-- stepping deeper into Polygon's Open Money Stack while keeping the bar high on reliability, testing, docs, and operability
-- building a growing suite of agent-first CLI tools around useful public APIs and real workflows
-- tightening Hermes Agent workflows, playbooks, skills, and operator visibility instead of building swarm theatre
-- looking for small, high-signal builder circles where people actually ship and compare notes
+- useful software over clever demos
+- onchain products that don't feel terrifying to use
+- AI-assisted engineering that has guardrails, docs, and review loops
+- writing like an actual person again
+- poker, decision-making, and getting better without lying to myself
+
+## A few things I've built or worked on
+
+- [Agglayer UI](https://ui.agglayer.dev/) / [Agglayer SDK](https://github.com/agglayer/sdk) at Polygon
+- [sPOL liquid staking](https://staking.polygon.technology/lst)
+- [CLI tools](https://shan8851.com/projects) for transport, company data, rail, fuel, and Parliament
+- [Hermes Console](https://github.com/shan8851/hermes-console), a local dashboard for Hermes Agent
+- [RoastMaster](https://roastmyphoto.app/), because apparently I also ship silly things
 
 ## Elsewhere
-- **[website](https://shan8851.com)** — public front door, notes, log, and projects
-- **[x](https://x.com/shan8851)**
-- **[telegram](https://t.me/shan8851)**
-- **[email](mailto:asamshan456@gmail.com)**
+
+- [website](https://shan8851.com)
+- [notes](https://shan8851.com/notes)
+- [x](https://x.com/shan8851)
+- [telegram](https://t.me/shan8851)
+- [email](mailto:asamshan456@gmail.com)
