@@ -1,28 +1,15 @@
-# Hey, I'm Shan
+# Hey, I’m Shan
 
-Senior full-stack engineer at Polygon.
+I like making useful things.
 
-I work on onchain products, mostly around bridging, staking, payments, and the kind of reliability you only notice when it breaks.
+Senior software engineer at Polygon. I build products, tools, and workflows that make complicated things easier to use—from bridging and staking interfaces to personal agents and teams for our weekly football games.
 
-Outside work I build small tools, write notes, and occasionally turn a personal obsession into a project before realising I have once again made a hobby into homework.
+A few things I’ve built or worked on:
 
-## Mostly interested in
+- [Agglayer UI](https://ui.agglayer.dev/) and [sPOL liquid staking](https://staking.polygon.technology/lst) at Polygon.
+- [FairSide](https://www.fairside.app/) — evenly matched football teams, balanced across fitness, attack, and defence.
+- [RoastMaster](https://roastmyphoto.app/) — photo roasts and excessive compliments. A fun experiment in models and prompts.
+- [Personal agent workflows](https://shan8851.com/building/personal-agents) — turning everyday messages and voice notes into useful memory and follow-ups.
+- [Tools and agent skills](https://shan8851.com/skills) — reusable pieces for building, remembering, researching, and getting things done.
 
-- useful software over clever demos
-- onchain products that don't feel terrifying to use
-- AI-assisted engineering that has guardrails, docs, and review loops
-
-## A few things I've built or worked on
-
-- [Agglayer UI](https://ui.agglayer.dev/) / [Agglayer SDK](https://github.com/agglayer/sdk) at Polygon
-- [sPOL liquid staking](https://staking.polygon.technology/lst)
-- [CLI tools](https://shan8851.com/projects) for transport, company data, rail, fuel, and Parliament
-- [Hermes Console](https://github.com/shan8851/hermes-console), a local dashboard for Hermes Agent
-- [RoastMaster](https://roastmyphoto.app/), because apparently I also ship silly things
-
-## Elsewhere
-
-- [website](https://shan8851.com)
-- [x](https://x.com/shan8851)
-- [telegram](https://t.me/shan8851)
-- [email](mailto:asamshan456@gmail.com)
+[Website](https://shan8851.com) · [CV](https://shan8851.com/cv) · [Say hello on Telegram](https://t.me/shan8851) · [Email](mailto:asamshan456@gmail.com)
