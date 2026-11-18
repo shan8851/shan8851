@@ -2,12 +2,13 @@
 
 I like making useful things.
 
-Senior software engineer at Polygon. These days most of what I build is agents: I co-own Polygon’s Agent CLI, run the agent harness our marketing team ships web pages through, and build agent systems end to end outside work. Before agents (and still), product work on bridging and staking interfaces that handle real user funds.
+Senior software engineer at Polygon. These days most of what I build is agents. I’m lead engineer on Polygon’s Agent CLI, and engineering lead for polygon.technology and Stargazer, the agent harness marketing and design use to ship the sites. Outside work I build agent systems end to end. Before agents (and still), product work on bridging and staking interfaces that handle real user funds.
 
 **Agents**
 
 - [harness-digest](https://github.com/shan8851/harness-digest) — a scheduled agent harness with no framework. Rules are enforced in code rather than the prompt, and the LLM judge is measured against my own labels. Emails me a weekly digest on agentic engineering.
-- [Polygon Agent CLI](https://github.com/0xPolygon/polygon-agent-cli) — lets agents act onchain with guardrails and transaction ledgers.
+- [Polygon Agent CLI](https://github.com/0xPolygon/polygon-agent-cli) — lets agents act onchain with guardrails and transaction ledgers. Lead engineer since November 2026.
+- Stargazer (private) — the agent harness behind polygon.technology. Marketing and design ship pages from Slack under enforced governance and consent rules; engineering decisions on it route through me.
 - [Personal agent workflows](https://shan8851.com/building/personal-agents) — turning everyday messages and voice notes into useful memory and follow-ups.
 - [Agent skills](https://shan8851.com/skills) — the skills I actually use for building, remembering, researching and writing. Source in [agent-skills](https://github.com/shan8851/agent-skills).
 - CLIs built for agents: UK [rail](https://github.com/shan8851/rail-cli), [Parliament](https://github.com/shan8851/parliament-cli) and [Companies House](https://github.com/shan8851/companies-house-cli) data, plus [ClassCharts](https://github.com/shan8851/classcharts-agent).
